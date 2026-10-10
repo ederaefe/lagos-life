@@ -1,4 +1,4 @@
-LIVE = https://lagoslife.app/
+(PLAY THE GAME)[https://lagoslife.app/]
 # 🇳🇬 Lagos Life: Browser Edition
 
 > A lightweight, web-based life simulation game capturing the hustle, survival, and vibrant culture of Lagos, Nigeria. 
