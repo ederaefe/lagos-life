@@ -1,0 +1,1 @@
+LIVE = https://lagoslife.app/
