@@ -1,4 +1,5 @@
 [PLAY THE GAME](https://lagoslife.app/)
+Creator(https://www.instagram.com/Shalom_HeyEliy/)
 # 🇳🇬 Lagos Life: Browser Edition
 
 > A lightweight, web-based life simulation game capturing the hustle, survival, and vibrant culture of Lagos, Nigeria. 
