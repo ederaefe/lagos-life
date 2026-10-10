@@ -1,4 +1,4 @@
-[PLAY THE GAME](https://lagoslife.app/)
+[PLAY THE GAME: lagoslife.app ](https://lagoslife.app/)
 
 Creator: [Shalom Rayhamen](https://www.instagram.com/Shalom_HeyEliy/)
 # 🇳🇬 Lagos Life: Browser Edition
